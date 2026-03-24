@@ -3,11 +3,11 @@
 <h3 align="center">Pursuing Computer Science and Engineering (Artificial Intelligence and Machine Learning)🎓</h3>
   <h4 align="center"> Vel Tech High Tech Dr. Rangarajan Dr.Sakunthala Engineering College </h4>
 
-- 🔭 I’m currently working on **JavaScript Full Stack Project**
+- 🔭 I’m currently working on:  **Building projects and developing innovative automations**
 
-- 💬 Ask me about **Nothing is Impossible because Impossible Itself says I'm Possible**
+- 💬 **Nothing is Impossible because Impossible Itself says I'm Possible**
 
-- 📫 How to reach me **dhaanushk2004@gmail.com**
+- 📫 How to reach me:  **dhaanushk2004@gmail.com**
 
 ###
 <div align="center">
